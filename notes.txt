@@ -1,26 +1,14 @@
-1. Why do we use virtual env when working with django projects, what is the importance of it?
-   Is it just helping us with using different packages, modules and dependecies for different apps?
 
-2. What is the use of render, also it is provided by-default. (render vs return)
-
-3. What is template inheritance, it runs around the concepts like adding the navigation bar in 
+template inheritance, it runs around the concepts like adding the navigation bar in 
    every  template that would not the best way to do, so it will include a section of template inside an another template.
 
-4. What are froms and what are the use of forms in django ?
-
-5. What is jinja template and forms and tags and templates in djang ?
-
-6. What are class-based views and function-based views? we have used func based views here.
-   check video from 1:40:00 --to-- 2:00:00
-
-7. What is Q-Lookup method that django allows us to do? Basically used for the alternative when 
+Q-Lookup method that django allows us to do, Basically used for the alternative when 
    when it requires that all the given parameters should matched the input search. 
 
-8. How to implement the authentication in djangi like user login, logout and registration. 
+implement the authentication in djangi like user login, logout and registration. 
    Django has inbuilt functionality called session based authentication. 
    Django have the built-in login form and registration form.
 
-9. How to restrict a user when it is logged in or logged out. We have many different ways to do this 
+restrict a user when it is logged in or logged out. We have many different ways to do this 
    for example, doing this by decorators, or by middlewares etc.
 
-10. 
